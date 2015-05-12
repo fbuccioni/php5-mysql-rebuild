@@ -18,7 +18,7 @@ In your command line:
 - Install the requirements
 
         sudo apt-get install build-essential
-        sudo apt-get build-deps php5-mysql
+        sudo apt-get build-dep php5-mysql
 
 - Install the script
 

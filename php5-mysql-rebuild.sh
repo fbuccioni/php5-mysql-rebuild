@@ -39,7 +39,6 @@ for ext in $extensions; do
 
     echo ">> installing"
     make install
-    [ "$?
 
     echo "done"
 done
